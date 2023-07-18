@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "test": "jest  --coverage"
+  },
+  "dependencies": {
+    "validator": "^13.9.0"
+  },
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
